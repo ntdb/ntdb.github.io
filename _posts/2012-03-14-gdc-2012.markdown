@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "GDC 2012"
+date:   2012-03-14
+---
+
+<p>I was blessed to be able to go to the Game Developer’s Conference (GDC) in San Francisco last week! Though perhaps not quite what I expected, the trip and the conference were both excellent experiences. I’ll write up some more detailed, targeted thoughts later. First, an overview.</p>
+<h5>Who?</h5>
+<p>Game developers all over the country ranging from indies developing games solo to producers leading massive development teams. I walked past some big names like John Romero (DOOM) and modern celebrities like Notch (Minecraft).</p>
+<h5>What?</h5>
+<p>Lectures, panels, meetings, and networking (parties). This is THE yearly opportunity for striking up and maintaining relationships with developers and industry professionals. I went to GDC with an expo pass which means I didn’t get to attend most panels but was able to meet many new people, play games I’ve been eying for a long time, and see a lot of products and tools from all over the industry. I spent most of my time in the Independent Games Festival pavilion where I met developers who make games that I enjoy and who share my passion for the capabilities of the medium.</p>
+<h5>Where?</h5>
+<p>Yup, San Francisco. This trip was my first over the Mississippi in something on the order of ten years. I stayed with Richard Shemaka in Berkeley and got to see a decent amount of the bay area. It really is a beautiful city and the weather is as good as everyone says. I managed to try a Mission burrito (delicious), lots of local sourdough (there is a bakery within walking distance of Shemaka’s house), and an In-N-Out burger (a good “fast food” burger). The conference itself was at the Moscone Center in the middle of downtown.</p>
+<h5>Why?</h5>
+<p>Well that’s a loaded question. Last year I decided that the conference was something I should attend at any cost in 2012 because… I want to make games. As with any work, surrounding yourself with people who do the same thing is one of the best ways to improve and focus yourself. Furthermore, the trip and sheer quantity of things to see at the conference gave me a lot to consider and the time/space to begin to process it. I had a lot of feelings come up on the industry as presented at GDC, hopes and doubts and realizations, that I still can’t quite put into words. I think that’s a good indication that I’m developing a realistic outlook on real-life game development.</p>
+<h5>How?</h5>
+<p>Make up all of the missed work the week after. O_o</p>

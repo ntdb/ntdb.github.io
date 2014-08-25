@@ -1,0 +1,184 @@
+@font-face {
+    font-family: 'Azo Sans Thin';
+    src: url(/fonts/AzoSansThin.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Azo Sans Light';
+    src: url(/fonts/AzoSansLight.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Azo Sans Medium';
+    src: url(/fonts/AzoSansMedium.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Azo Sans Black';
+    src: url(/fonts/AzoSansBlack.otf) format('opentype');
+}
+
+body {
+    font-family: 'Azo Sans Medium', helvetica, sans-serif !important;
+    padding: 50px 0;
+    color: #2a6496;
+}
+ul {
+    list-style-type: none;
+    margin-bottom: 20px;
+    padding-left: 0;
+}
+
+.content p {
+    font-family: 'Azo Sans Light';
+}
+.content a,
+.left > p > a {
+    color: lightgray;
+    transition: color .15s linear;
+    -moz-transition: color .15s linear;
+    -webkit-transition: color .15s linear;
+}
+.content a:hover,
+.left > p > a:hover {
+    color: #2a6496;
+}
+
+.post {
+    font-weight: lighter;
+}
+
+.meta {
+    margin: 10px 0 20px;
+}
+.meta span {
+    color: #2a6496;
+    font-weight: 300;
+    font-style: italic;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: bold;
+}
+
+.left {
+    text-align: center;
+}
+.left a,
+.left a:hover {
+    color: #2a6496;
+    text-decoration: none;
+}
+
+.section > h4 > span {
+    display: inline-block;
+    margin-left: 23px;
+    opacity: 0;
+    transition: margin .20s ease-out, opacity .20s ease-in-out;
+    -moz-transition: margin .20s ease-out, opacity .20s ease-in-out;
+    -webkit-transition: margin .20s ease-out, opacity .20s ease-in-out;
+}
+
+h3 > i {
+    margin-right: 10px;
+}
+
+.section:hover > h4 > span {
+    opacity: 1;
+    margin-left: 8px;
+}
+
+.imagewell {
+    overflow-x: scroll;
+    white-space:nowrap;
+}
+.imagewell img {
+    height: 200px;
+    margin-right: 10px;
+}
+.imagewell img:last-child {
+    margin-right: 0;
+}
+
+.lightbox {
+    background: rgba(0,0,0,0.75);
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+}
+.lightbox img {
+    max-width: 90%;
+    max-height: 80%;
+    margin-top: 2%;
+}
+.lightbox:target {
+    display: block;
+    outline: none;
+}
+.lightbox .prev,
+.lightbox .next {
+    position: absolute;
+    top: 30%;
+    margin: 0 50px;
+}
+.lightbox .prev {
+    left: 0;
+}
+.lightbox .next {
+    right: 0;
+}
+.lightbox .close {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+@media (min-width: 992px) {
+    .left {
+        position: fixed;
+    }
+}
+
+@media (max-width: 991px) {
+    .section {
+        text-align: center;
+    }
+
+    .left {
+        margin-bottom: 60px;
+    }
+
+    .section > h4 > span {
+        display: none;
+    }
+
+    .lightbox img {
+        max-width: 95%;
+        max-height: 80%;
+        margin-top: 50px;
+    }
+    .lightbox .prev,
+    .lightbox .next {
+        position: absolute;
+        top: 10px;
+        margin: 0 10px;
+    }
+
+    /*
+    .section > h4 > span {
+        display: inline-block;
+        opacity: 1;
+        margin-left: 8px;
+    }
+    */
+}

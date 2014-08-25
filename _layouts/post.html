@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="col-md-6 col-md-offset-4">
+    <h3>{{ page.title }}</h3>
+
+    {% if page.date %}
+    <div class="meta">
+        <span>{{ page.date | date: '%B %d, %Y' }}</span>
+    </div>
+    {% endif %}
+
+    <div class="post">
+    {{ content }}
+    </div>
+
+    {% if page.original %}
+    <div class="meta">
+        <span><a href="{{ page.originalurl }}">Originally posted at {{ page.original }}</a></span>
+    </div>
+    {% endif %}
+
+</div>

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Yo, Yeoman!"
+date:   2012-09-25
+original: "inthepin.es"
+originalurl: "http://inthepines.co/posts/yo,_yeoman!"
+---
+
+There’s a certain ritual that we go through when it’s time to make a new web app. It involves typing up some pretty basic HTML, wiring up a javascript base with our favorite libraries included (jQuery, Less, whatever else we’re jamming on at the time), and building up the rest of the app’s foundation as we go. To some extent this is a good process to go through: it cuts down on unnecessary code and forces the developer to consider new ways of achieving the desired result.
+
+On the other hand, this ritual is also pretty laborious. Two weeks ago a project called Yeoman, offering a robust set of tools to eliminate this process, was made available. Imagine Yeoman as a new, powerful, respectful incarnation of Clippy: “It looks like you’re building a web app. Would you like help?” When called upon Yeoman will ask a series of questions about your app and build a project complete with boilerplate code (via Bootstrap) and libraries based on your answers. Beyond that, Yeoman can...
+
+* easily manage external libraries ($ yeoman install jquery)
+* fully optimize an app for deployment ($ yeoman build)
+* reload html, css, and javascript in a test environment automatically
+* handle unit testing for your entire app using phantom.js
+* remember libraries and boilerplate in “generators” to be used in future projects
+
+...and more. Essentially, it is a workflow tool (NOT a framework) that will save us tons of time and headache.
+
+Last week I used Yeoman to build a very basic web app and, while enjoying all of the above, I did encounter some problems. The library installation functionality did not work for me when I tried to install Handlebars.js and, later, jQuery Transit. Yeoman uses Bower as its package manager and it did not communicate properly with Require.js to get the libraries set up. That said, it is an open source project and these bugs are probably already fixed. Loving it!
