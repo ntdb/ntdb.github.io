@@ -1,5 +1,5 @@
-name: Your New Jekyll Site
+name: Nate Bailey
 markdown: redcarpet
 pygments: true
-category-list: [Mobile, Web, Games]
-icon-list: ['mobile', 'globe', 'gamepad']
+category-list: [Web, Mobile, Games]
+icon-list: ['globe', 'mobile', 'gamepad']
