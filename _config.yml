@@ -1,5 +1,5 @@
 name: Nate Bailey
 markdown: redcarpet
-pygments: true
+highlighter: rouge
 category-list: [Web, Mobile, Games]
 icon-list: ['globe', 'mobile', 'gamepad']
