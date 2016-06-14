@@ -9,7 +9,8 @@ resource: true
     <div class="section">
         <h4><i class="fa fa-{{ site.icon-list[forloop.index0] }}"></i><span>{{ cat }}</span></h4>
         <ul>
-        {% for page in site.pages | sort: 'date' %}
+        {% assign sorted_pages = site.pages | sort: 'date' | reverse %}
+        {% for page in sorted_pages %}
         {% unless page.resource == true %}
         {% for pc in page.categories %}
         {% if pc == cat %}
