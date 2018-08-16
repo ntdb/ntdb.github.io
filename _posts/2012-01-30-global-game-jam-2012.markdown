@@ -1,7 +1,7 @@
 ---
+title: Global Game Jam 2012
+date: 2012-01-30 00:00:00 Z
 layout: post
-title:  "Global Game Jam 2012"
-date:   2012-01-30
 ---
 
 <p>Hey, another Global Game Jam! Last year was my first go at it and, despite my relative uselessness, it made a big impact on the work I’ve done in the last year. I went into the jam this year with a lot more confidence in my own abilities and with relative assurance that I’d come out of the weekend with something to show for it! In every objective sense it was a success.</p>

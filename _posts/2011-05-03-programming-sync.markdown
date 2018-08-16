@@ -1,9 +1,9 @@
 ---
+title: Programming Sync
+date: 2011-05-03 00:00:00 Z
 layout: post
-title:  "Programming Sync"
-date:   2011-05-03
-original: "Game Design as a Cultural Practice"
-originalurl: "http://lmc.gatech.edu/~cpearce3/lcc4725/blog/?p=3111"
+original: Game Design as a Cultural Practice
+originalurl: http://lmc.gatech.edu/~cpearce3/lcc4725/blog/?p=3111
 ---
 
 <p>Throughout Game Design as a Cultural Practice I have been confronted by new ideas and ways of thinking about games that have subsequently manifested themselves in my semester project: Sync. As a programmer I found that many initial design decisions fell on me while building the first prototypes and, later, while adding features and tools. In the following paragraphs I will discuss how programming and design intertwined during my hours working on Sync throughout the class’s iterative design process.</p>

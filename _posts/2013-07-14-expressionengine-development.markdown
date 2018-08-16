@@ -1,9 +1,9 @@
 ---
+title: ExpressionEngine Development
+date: 2013-07-14 00:00:00 Z
 layout: post
-title:  "ExpressionEngine Development"
-date:   2013-07-14
-original: "inthepin.es"
-originalurl: "http://inthepines.co/posts/expressionengine_development"
+original: inthepin.es
+originalurl: http://inthepines.co/posts/expressionengine_development
 ---
 
 Confessi... er... humble brag. We don't typically use prebuilt content management systems. We like to keep our hands dirty in many different frameworks and we really enjoy building our own CMS when the time comes. Not only is it good experience for us but it allows us to build a solution that fits the application extremely well. In some cases, however, a client may already be familiar with a certain CMS or otherwise have experience that lends itself towards an existing solution.

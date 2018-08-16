@@ -1,9 +1,9 @@
 ---
+title: Yo, Yeoman!
+date: 2012-09-25 00:00:00 Z
 layout: post
-title:  "Yo, Yeoman!"
-date:   2012-09-25
-original: "inthepin.es"
-originalurl: "http://inthepines.co/posts/yo,_yeoman!"
+original: inthepin.es
+originalurl: http://inthepines.co/posts/yo,_yeoman!
 ---
 
 There’s a certain ritual that we go through when it’s time to make a new web app. It involves typing up some pretty basic HTML, wiring up a javascript base with our favorite libraries included (jQuery, Less, whatever else we’re jamming on at the time), and building up the rest of the app’s foundation as we go. To some extent this is a good process to go through: it cuts down on unnecessary code and forces the developer to consider new ways of achieving the desired result.

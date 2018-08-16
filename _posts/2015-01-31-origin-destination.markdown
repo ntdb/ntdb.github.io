@@ -1,9 +1,9 @@
 ---
+title: Origin + Destination
+date: 2015-01-31 00:00:00 Z
 layout: post
-title:  "Origin + Destination"
-date:   2015-01-31
-original: "WINTR Blog"
-originalurl: "http://www.wintr.us/blog/origin-and-destination"
+original: WINTR Blog
+originalurl: http://www.wintr.us/blog/origin-and-destination
 ---
 
 <p>Intro from Ben Winters: <i>Transportation in Seattle is a topic of complaint for the majority of commuters, a byproduct of prosperous times. At WINTR we have a simple belief  that design and technology can be used to solve problems. We created an interactive visualization of personalized experiences in the context of traffic in Seattle. It’s a starting point, something to move the conversation beyond the realm of complaint, to spark a conversation around a solution.</i></p>

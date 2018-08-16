@@ -1,7 +1,7 @@
 ---
+title: GDC 2012
+date: 2012-03-14 00:00:00 Z
 layout: post
-title:  "GDC 2012"
-date:   2012-03-14
 ---
 
 <p>I was blessed to be able to go to the Game Developer’s Conference (GDC) in San Francisco last week! Though perhaps not quite what I expected, the trip and the conference were both excellent experiences. I’ll write up some more detailed, targeted thoughts later. First, an overview.</p>

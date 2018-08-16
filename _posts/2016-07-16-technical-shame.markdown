@@ -1,7 +1,7 @@
 ---
+title: Technical Shame
+date: 2016-07-16 00:00:00 Z
 layout: post
-title:  "Technical Shame"
-date:   2016-07-16
 ---
 
 Technical debt is a normal part of the software development process. Sometimes you make the conscious decision to take it on in order to meet a goal, sometimes it just happens. When working solo I find that it doesn't matter how it got there, technical debt turns into technical shame.
